@@ -9,9 +9,11 @@ The AI Image Generator creates realistic images from descriptive prompts, ensuri
 
 
 2. **Create the Workspace** : 
+
 ```daytona create https://github.com/daytonaio/sample-react-ai-image-generator```
 
 3. **Start the Application**:
+
 ```npm run start```
 
 ## ✨ Features
