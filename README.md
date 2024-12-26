@@ -1,8 +1,6 @@
 # Sample <JavaScript - ReactJS>
 
-## Text-to-Image Generator
-
-The Text-to-Image Generator allows users to create realistic images from descriptive prompts using the black-forest-labs/FLUX.1-dev model, ensuring high-quality outputs quickly and efficiently.
+The AI Image Generator creates realistic images from descriptive prompts, ensuring high-quality outputs with efficiency.
 
 ## 🚀 Getting Started
 ### Open Using Daytona
