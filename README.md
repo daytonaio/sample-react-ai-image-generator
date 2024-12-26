@@ -1,34 +1,35 @@
-This repository contains a README file sample for Daytona Samples and the MIT License.
+# Sample <JavaScript - ReactJS>
 
-It can be used as a template to create sample repositories that can be added into [Daytona](https://github.com/daytonaio/daytona).
+The AI Image Generator creates realistic images from descriptive prompts, ensuring high-quality outputs with efficiency.
 
-Once you finish your sample and it gets merged, you can open a PR in the Daytona repo and submit the sample into the [index file](https://github.com/daytonaio/daytona/blob/main/hack/samples/index.json).
+## 🚀 Getting Started
+### Open Using Daytona
 
-# Sample <LANGUAGE/FRAMEWORK>
+1. **Install Daytona**: Follow the [Daytona installation guide](https://www.daytona.io/docs/installation/installation/).
 
-Sample description
 
----
+2. **Create the Workspace** : 
 
-## 🚀 Getting Started  
+```
+daytona create https://github.com/daytonaio/sample-react-ai-image-generator
+```
 
-### Open Using Daytona  
+3. **Start the Application**:
 
-1. **Install Daytona**: Follow the [Daytona installation guide](https://www.daytona.io/docs/installation/installation/).  
-2. **Create the Workspace**:  
-   ```bash  
-   daytona create <SAMPLE_REPO_URL> 
-   ```  
+```
+npm run start
+```
 
-... MORE STEPS IF NEEDED ...
+## ✨ Features
+* Realistic Image Generation
+* User-Friendly Interface
+* Versatile Use Cases
 
-4. **Start the Application**:  
-   ```bash  
-   command to start the app
-   ```  
 
----
+## 🛠️ Tech Stack
+**Frontend**: ReactJS
 
-## ✨ Features  
+**Image Generation Model**: black-forest-labs/FLUX.1-dev (Hugging Face Model)
 
-List of sample features (e.g. realtime chat app, standardized development environment with devcontainers)
+
+
